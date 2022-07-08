@@ -2,6 +2,8 @@
 
 A collection of mods to improve the performance and user experience of PojavLauncher. This repository was originally assembled by Discord moderator Chuck_Norris_ as a response to low performance on certain devices, as well as goodies in other areas.  
 
+I got sick of PojavOptimize for 1.18 including 1.17 and 1.16.5 mods
+
 Loads in as little as 1 minute and 3 seconds from clicking play to in-world!
 
 The mods in this pack include:
